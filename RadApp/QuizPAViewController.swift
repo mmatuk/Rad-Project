@@ -1,10 +1,13 @@
+//*******************************************************
+//Author:                       Matt Matuk
+//Created:                      09/07/2015
+//Source File:                  QuizPAViewController.swift
+//Description:
+//  Displays teh PA quiz that the user has chosen to take.
+//  User get asked ten question to answer about the view given.
 //
-//  QuizPAViewController.swift
-//  RadApp
-//
-//  Created by csit267-8 on 11/30/15.
-//  Copyright © 2015 Koby Samuel. All rights reserved.
-//
+//Editor:                          XCode
+//*******************************************************
 
 import UIKit
 import MessageUI
